@@ -44,7 +44,7 @@ We then log in to our admin user(john). then go to tickets and then select the T
 <br />
 
 <p>
-<img src="https://i.imgur.com/Yo7xwi1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/refs/heads/main/images/Screenshot%202025-06-26%20183853.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 we then go to Default SLA
@@ -52,7 +52,7 @@ we then go to Default SLA
 <br />
 
 <p>
-<img src="https://i.imgur.com/wMFPauy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/refs/heads/main/images/Screenshot%202025-06-26%20184040.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 We then set it to SEVA since it is a sever issue
@@ -60,7 +60,7 @@ We then set it to SEVA since it is a sever issue
 <br />
 
 <p>
-<img src="https://i.imgur.com/3F6ZZb3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/refs/heads/main/images/Screenshot%202025-06-26%20184230.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Then go to report problem. we set it to business critical outage and explain the situation. then update it
