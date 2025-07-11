@@ -28,7 +28,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/refs/heads/main/images/Screenshot%202025-06-26%20191409.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/refs/heads/main/Screenshot%202025-06-26%20181533.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Here we use the end user we created before (karen) she is creating a ticket because she is having an issue with her online Banking.
