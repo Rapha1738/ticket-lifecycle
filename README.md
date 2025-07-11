@@ -68,7 +68,7 @@ Then go to report problem. we set it to business critical outage and explain the
 <br />
 
 <p>
-<img src="https://i.imgur.com/eIUeepX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/refs/heads/main/images/Screenshot%202025-06-26%20184519.png" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 we will then see the updated statements from john appear here as well as Karens ticket complaint.
@@ -76,7 +76,7 @@ we will then see the updated statements from john appear here as well as Karens 
 <br />
 
 <p>
-<img src="https://i.imgur.com/AgS5OG8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/refs/heads/main/images/Screenshot%202025-06-26%20184727.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Next we assign the Ticket to either a team or an agent. for this particular case we will assign it to the Online banking's team
@@ -84,7 +84,7 @@ Next we assign the Ticket to either a team or an agent. for this particular case
 <br />
 
 <p>
-<img src="https://i.imgur.com/v5TsjRY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/refs/heads/main/images/Screenshot%202025-06-26%20185312.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 afte assigning the Ticket, we then log in as Jane who is part of the Online Banking team, and should see the ticket in this form
@@ -92,7 +92,7 @@ afte assigning the Ticket, we then log in as Jane who is part of the Online Bank
 <br />
 
 <p>
-<img src="https://i.imgur.com/BRrw3gO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/refs/heads/main/images/Screenshot%202025-06-26%20190504.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 we then as jane inform that we will take over the Ticket. we also report the issue on the Ticket thread then finally update the thread when we solve the ticket.
@@ -100,7 +100,7 @@ we then as jane inform that we will take over the Ticket. we also report the iss
 <br />
 
 <p>
-<img src="https://i.imgur.com/u7Mfmoj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/refs/heads/main/images/Screenshot%202025-06-26%20191409.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Next we indicate that we resolved the Ticket.
@@ -108,7 +108,7 @@ Next we indicate that we resolved the Ticket.
 <br />
 
 <p>
-<img src="https://i.imgur.com/Ppapnqb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/refs/heads/main/images/Screenshot%202025-06-26%20191512.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Finally after resolving the Ticket, It should no longer show on the tickets panel letting us know that the ticket resolved succesfully. end thats it.
