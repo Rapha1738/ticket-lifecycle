@@ -36,7 +36,7 @@ Here we use the end user we created before (karen) she is creating a ticket beca
 <br />
 
 <p>
-<img src="https://i.imgur.com/YGas2P2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/refs/heads/main/images/Screenshot%202025-06-26%20183841.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 We then log in to our admin user(john). then go to tickets and then select the Ticket we will see that was created by Karen
